@@ -1,3 +1,17 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LmgHHxtKgDsYrVsEOw/giphy.gif" width="200"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/francesca-palermo-a9107a40/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>  
+    <a href="https://francescapalermo.github.io/">
+      <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=gitHub&logoColor=white" alt="Website Badge"/>
+    </a>
+  </div>
+</div>
+
+
 ### Hi there 👋
 
 <!--
