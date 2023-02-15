@@ -8,11 +8,6 @@
       <img src="https://img.shields.io/badge/Website-red?style=for-the-badge&logo=gitHub&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
-  
-  <h1>
-    Ehi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 
 
