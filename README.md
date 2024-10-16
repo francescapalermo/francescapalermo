@@ -12,11 +12,12 @@
 
 
 ### :woman_technologist: About Me :
-I am a machine learning researcher from Italy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a machine learning and computer vision researcher from Italy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I am working as a postdoctoral researcher at Imperial College of London in the [Barnaghi Lab](https://barnaghi-machine-intelligence-lab.github.io/)
+- :telescope: I am working as a Principal Investigator (Machine Learning and Computer Vision) at EssilorLuxottica's [Smart Eyewear Lab](https://www.essilorluxottica.com/en/careers/smart-eyewear-lab/).
 
 - :computer: My main interests:
+  - TinyML
   - Machine learning for Healthcare
   - Image Classification
   - Object Detection
